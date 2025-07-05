@@ -20,7 +20,7 @@ WeatherApp/
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+
 
 
 ## 🔧 Setup Instructions
