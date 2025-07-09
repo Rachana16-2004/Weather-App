@@ -8,7 +8,6 @@
 - 🧼 Minimal and responsive UI (pure HTML + CSS)
 
 ## 🛠️ Technologies Used
-
 - HTML5
 - CSS
 - JavaScript (optional, for API fetch)
@@ -20,8 +19,6 @@ WeatherApp/
 ├── index.html
 ├── style.css
 ├── script.js
-
-
 
 ## 🔧 Setup Instructions
 
