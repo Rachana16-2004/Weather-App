@@ -27,9 +27,7 @@ WeatherApp/
    git clone https://github.com/your-username/WeatherApp.git
    cd WeatherApp
 Get your API Key from OpenWeather
-
 Open script.js (if present) and replace:
-
 const apiKey = "YOUR_API_KEY";
 Open index.html in your browser to see the app live.
 
