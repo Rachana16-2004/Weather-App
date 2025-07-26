@@ -23,7 +23,6 @@ WeatherApp/
 ## 🔧 Setup Instructions
 
 1. Clone this repository:
-   ```bash
    git clone https://github.com/your-username/WeatherApp.git
    cd WeatherApp
 Get your API Key from OpenWeather
