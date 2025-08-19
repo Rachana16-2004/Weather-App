@@ -9,7 +9,7 @@
 
 ## 🛠️ Technologies Used
 - HTML5
-- CSS
+- CSS 
 - JavaScript (optional, for API fetch)
 - OpenWeatherMap API
 
