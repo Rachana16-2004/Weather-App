@@ -10,7 +10,7 @@
 ## 🛠️ Technologies Used
 - HTML5
 - CSS  
-- JavaScript (optional, for API fetch)
+- JavaScript (optional, for API fetch) 
 - OpenWeatherMap API
 
 ## 📦 Folder Structure
