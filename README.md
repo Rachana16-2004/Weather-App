@@ -18,7 +18,7 @@
 WeatherApp/
 ├── index.html
 ├── style.css
-├── script.js
+├── script.js 
 
 ## 🔧 Setup Instructions
 Get your API Key from OpenWeather
