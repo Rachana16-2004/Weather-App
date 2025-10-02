@@ -7,7 +7,7 @@
 - 📍 Optionally use geolocation (if implemented)  
 - 🧼 Minimal and responsive UI (pure HTML + CSS)
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 - HTML5
 - CSS   
 - JavaScript (optional, for API fetch) 
