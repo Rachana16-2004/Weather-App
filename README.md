@@ -4,7 +4,7 @@
  
 - 🔍 Search weather by city name  
 - 🌡️ Display temperature, humidity, and weather condition 
-- 📍 Optionally use geolocation (if implemented) 
+- 📍 Optionally use geolocation (if implemented)  
 - 🧼 Minimal and responsive UI (pure HTML + CSS)
 
 ## 🛠️ Technologies Used
