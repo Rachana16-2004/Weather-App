@@ -1,7 +1,7 @@
  🌦️ WeatherApp
 
 ## 🚀 Features
-
+ 
 - 🔍 Search weather by city name  
 - 🌡️ Display temperature, humidity, and weather condition
 - 📍 Optionally use geolocation (if implemented) 
